@@ -16,8 +16,4 @@ Requirements:
    - WebMVC: This is where the front end (Controllers, Views, Styles, etc) will be
 - Deploy to Azure
 <br>
-[Trello Board for Agile Project Management](https://trello.com/b/jdX1zEvJ/above-the-ground-radio)
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+Trello Board for Agile Project Management(https://trello.com/b/jdX1zEvJ/above-the-ground-radio)
